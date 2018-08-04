@@ -1,4 +1,4 @@
-package cn.acyou.iblogzuul;
+package cn.acyou.iblogconfig;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

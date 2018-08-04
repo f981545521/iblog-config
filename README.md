@@ -1,2 +1,2 @@
-# iblog-zuul
-微服务网关zuul
+# iblog-config
+微服务配置中心
